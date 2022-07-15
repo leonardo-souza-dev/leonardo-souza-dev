@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **unit tests**
 
-- 📫 How to reach me **leonardosouza.developer@gmail.com**
+- 📫 How to reach me **ltreze@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
