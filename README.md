@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Souza</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=leonardo-souza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-souza-dev" />
@@ -11,17 +11,25 @@
   </a>
 </p>
 
-- 💬 Ask me about **unit tests**
+- 💬 Ask me about **development, unit tests**
 
 - 📫 How to reach me **ltreze@icloud.com**
+
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/leonardo-de-souza-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-de-souza-dev" height="30" width="40" />
+  <a href="https://linkedin.com/in/leonard0-souza-dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard0-souza-dev" height="30" width="40" />
+  </a>
+
+  <a href="https://www.superprof.com.br/aulas-individuais-tecnologias-como-dotnet-core-testes-unidade-javascript-html-css-vuejs.html" target="blank">
+    <img align="center" src="https://correiodelagos.com/site/assets/files/11614/superprof-1200x800.png" alt="superprof-leonardo-souza-dev" height="90" width="135" />
   </a>
 </p>
+
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
