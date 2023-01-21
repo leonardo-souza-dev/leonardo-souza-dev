@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo Souza</h1>
 
 <h5 align="center">Transformando ideias em código desde 1998<br/>
-🧑‍💻DevSpec na Via<br/>
-🎓Tutor em dev na Ebac</h5>
+🧑‍💻Desenvolvedor Especialista na ViaHub<br/>
+🎓Tutor em desenvolvimento na Ebac</h5>
 
 <hr />
 
