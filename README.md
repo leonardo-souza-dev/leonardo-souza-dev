@@ -17,7 +17,6 @@
 </p>
 
 - 💬 Ask me about **development, unit tests**
-- 📫 How to reach me **ltreze@icloud.com**
 
 <hr />
 
