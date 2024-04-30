@@ -27,10 +27,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard0-souza-dev" height="30" width="40" />
   </a>
 
-  <a href="https://www.superprof.com.br/seja-desenvolvedor-programador-backend-full-stack-alavanque-sua-carreira-com-aulas-dotnet-core-net-testes.html" target="_blank">
-    <img align="center" src="https://correiodelagos.com/site/assets/files/11614/superprof-1200x800.png" alt="superprof-leonardo-souza-dev" height="90" width="135" />
-  </a>
-
   <a href="https://medium.com/@leonardosouza.dev" target="_blank">
     <img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="medium-leonardo-souza-dev" height="35" width="144" />
   </a>
